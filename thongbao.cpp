@@ -10,6 +10,7 @@ int sum_array(int[] a, int n) {
 }
 
 void main{
-    cout<<"Hello world";
+    cout << "Hello world"; 
+    cout << endln;
     
 }
