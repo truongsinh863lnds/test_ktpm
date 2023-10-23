@@ -10,9 +10,8 @@ int sum_array(int[] a, int n){
     return sum;
 }
 
-
-
 void main{
     cout << "Hello world" << endl;
-
+    int a[5] = {1, 2, 3, 4, 5};
+    cout << "Tong mang {1, 2, 3, 4, 5} la: " << sum_array(a, 5) << endl;
 }
